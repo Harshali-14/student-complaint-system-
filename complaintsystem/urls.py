@@ -20,11 +20,14 @@ from complaint import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.register, name="register"),
-    path('sigin/', views.signin , name="signin"),
-    path('complaintreg/',views.compalintreg, name="complaintreg"),
+    path('register/',views.register, name="register"),
+    path('', views.signin , name="signin"),
+    path('compalintreg/',views.complaintreg, name="complaintreg"),
     path('logout/', views.logout_fun, name="logout"),
     path('view_complaint',views.view_complaint,name="view_complaint"),
     path('update/<int:id>/', views.update, name='update'),
-path('delete/<int:id>/', views.delete, name='delete'),
+    path('delete/<int:id>/', views.delete, name='delete'),
+     path('about/', views.about, name='about'),
+    path('profile/', views.profile, name='profile'),
+    path('change-password/', views.change_password, name='change_password'),
 ]
