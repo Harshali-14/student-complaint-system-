@@ -26,25 +26,25 @@ A web-based **Complaint Management System** built using **Django** and **MySQL**
 ## 📸 Screenshots
 
 ### 📝 Register Page
-![Register](screenshots/register.png)
+![Register](Screenshots/register.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### ℹ️ About Page
-![About](screenshots/about_us.png)
+![About](Screenshots/about_us.png)
 
 ### 👤 User Profile
-![Profile](screenshots/profile.png)
+![Profile](Screenshots/profile.png)
 
 ### 📋 View Complaints
-![View Complaints](screenshots/viewcomplaint.png)
+![View Complaints](Screenshots/viewcomplaint.png)
 
 ### 📊 Complaint Dashboard
-![Dashboard](screenshots/complaints_dashboard.png)
+![Dashboard](Screenshots/complaints_dashboard.png)
 
 ### ✏️ Update Complaint
-![Update Complaint](screenshots/updatepage.png)
+![Update Complaint](Screenshots/updatepage.png)
 
 
 ## ⚙️ Setup
