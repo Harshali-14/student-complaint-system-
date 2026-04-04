@@ -1,12 +1,12 @@
-# 📝 Complaint Management System
+#  Complaint Management System
 
-## 📌 Overview
+##  Overview
 
 A web-based **Complaint Management System** built using **Django** and **MySQL** to submit, track, and manage complaints efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 🔐 User Authentication (Login/Register)
 * 📝 Complaint Submission
@@ -16,7 +16,7 @@ A web-based **Complaint Management System** built using **Django** and **MySQL**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Backend: Django
 * Database: MySQL
@@ -56,7 +56,7 @@ python manage.py runserver
 
 ---
 
-## 🔐 Security
+##  Security
 
 * Password Hashing
 * CSRF Protection
@@ -64,7 +64,7 @@ python manage.py runserver
 
 ---
 
-## 📊 Key Highlights
+##  Key Highlights
 
 * Role-Based Access (User/Admin)
 * Clean UI & Responsive Design
@@ -72,7 +72,7 @@ python manage.py runserver
 
 ---
 
-## 📌 Future Scope
+##  Future Scope
 
 * Email Notifications
 * Analytics Dashboard
