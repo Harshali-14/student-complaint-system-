@@ -96,7 +96,7 @@ git clone https://github.com/your-username/Complaint-Management-System.git
 ```
 
 ```bash
-cd Complaint-Management-System
+cd complaintsystem
 ```
 
 ---
@@ -236,29 +236,6 @@ http://127.0.0.1:8000/
 - SMS Notifications
 
 ---
-
-# 📄 requirements.txt
-
-```txt
-Django==5.1.7
-mysqlclient==2.2.7
-asgiref==3.8.1
-sqlparse==0.5.3
-tzdata==2025.1
-colorama==0.4.6
-```
-
----
-
-# 📄 .gitignore
-
-```gitignore
-# Python
-__pycache__/
-*.py[cod]
-
-# Database
-*.sqlite3
 
 # Virtual Environment
 venv/
