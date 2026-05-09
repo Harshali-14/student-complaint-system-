@@ -207,63 +207,42 @@ http://127.0.0.1:8000/
 ## ✏️ Update Complaint Page
 ![Update](Screenshots/updatepage.png)
 
----
 
-# 🔒 Security Features
+## ⚙️ Setup
 
-- Password Hashing
-- CSRF Protection
-- Secure Authentication
-- Django Built-in Security Features
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
 
----
-
-# 📊 Key Highlights
-
-- Role-Based Access Control
-- Complaint Status Workflow
-- Responsive User Interface
-- Efficient Complaint Handling System
 
 ---
 
-# 🌟 Future Enhancements
+## 🔐 Security
 
-- Email Notifications
-- Analytics Dashboard
-- AI-based Complaint Classification
-- Complaint Priority System
-- SMS Notifications
-
----
-# Virtual Environment
-venv/
-env/
-
-# Environment Variables
-.env
-
-# Static & Media
-media/
-staticfiles/
-
-# VS Code
-.vscode/
-
-# Logs
-*.log
-```
+* Password Hashing
+* CSRF Protection
+* Secure Authentication
 
 ---
 
-# 👩‍💻 Author
+## 📊 Key Highlights
 
-## Harshali Kulkarni  
-MCA Student  
-Python & Django Developer
+* Role-Based Access (User/Admin)
+* Clean UI & Responsive Design
+* Efficient Complaint Workflow
 
 ---
 
-# 📜 License
+## 📌 Future Scope
 
-This project is developed for educational and learning purposes.
+* Email Notifications
+* Analytics Dashboard
+* AI-based Complaint Classification
+
+---
+
+## 👩‍💻 Author
+
+Harshali Kulkarni
+
+
